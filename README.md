@@ -1,1 +1,1 @@
-# SF-T1-"Linea a¤adida para el segundo commit" 
+# SF-T1-"Linea aÃ±adida para el segundo commit" 
